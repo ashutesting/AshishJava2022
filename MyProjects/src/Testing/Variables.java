@@ -13,6 +13,8 @@ public class Variables
 		 int z;
 		// x=x+1; // we can not user variable x because its scope is only in method ashish()
 		 a=a+1; // we can use variable a in this method because a is global variable
+		 System.out.println("checking Local and Global Variable");
+	
 	 }
 
 }
